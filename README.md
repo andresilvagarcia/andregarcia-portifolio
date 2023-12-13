@@ -4,6 +4,7 @@ Principal objetivo deste portifólio é mostrar minhas habilidades como iniciant
 <hr />
 
 **Atualmente estuando Data Scientist pela Alura**
+
 **Atualmente estudando Python pela Alura**
 
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
